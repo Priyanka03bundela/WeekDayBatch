@@ -14,8 +14,12 @@ public class GoogleExampleTest {
 	@Test
 	public void testcase()
 	{
+<<<<<<< HEAD
 		
 		//commit in master
+=======
+
+>>>>>>> TestingBranch
 		
 		System.setProperty("webdriver.chrome.driver", "C:\\Users\\bunde\\Downloads\\chromedriver.exe");
 		WebDriver driver =new ChromeDriver();
